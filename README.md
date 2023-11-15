@@ -1,11 +1,11 @@
 ### Hi there 👋 I'm Herman Athor
 
-##About me
-<!-- I’m a frontend developer and a proud father of a wonderful son, I relocated to Europe at the start of spring in 2021.
+About me
+ I’m a frontend developer and a proud father of a wonderful son, I relocated to Europe at the start of spring in 2021.
 
 With experience in frontend web technologies, I am a firm believer in the mobile-first, dynamic pages and easy-to-use approach. I define myself as a practical person in every field of my life, always trying to find ways to solve problems as fast and easily as possible. I'm always looking to improve my knowledge, logical thinking, coding skills, and development tools and use my past experience to face the different challenges that may appear along the way.
 
-My favorite quote is "Never stop learning" as I believe that's the only way to constantly stay competitive and expand the range of my possibilities -->
+My favorite quote is "Never stop learning" as I believe that's the only way to constantly stay competitive and expand the range of my possibilities
 
 
 <!--
