@@ -6,12 +6,13 @@
 
 - 💬 Ask me about **Nextjs, React, Typescript, and anything related to frontend web development**
 
-- 📫 How to reach me **hermanathorg@gmail.com**
+- 📫 How to reach me **www.hermanathor.pro**
 
 - ⚡ Fun fact **I understand over 13 languages but can't speak any of them**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+    </>
 <a href="https://dev.to/herman athor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="herman athor" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/herman-athor-galabuzi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="herman-athor-galabuzi" height="30" width="40" /></a>
 <a href="https://medium.com/@hermanathor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hermanathor" height="30" width="40" /></a>
