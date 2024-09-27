@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **www.hermanathor.pro**
 
-- ⚡ Fun fact **I understand over 13 languages but can't speak any of them**
+- ⚡ Fun fact **I understand over 13 languages but can't speak only 3 fluently**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
